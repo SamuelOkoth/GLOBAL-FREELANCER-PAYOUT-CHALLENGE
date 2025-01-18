@@ -1,5 +1,5 @@
 # GLOBAL-FREELANCER-PAYOUT-CHALLENGE
-## Top 3 Challenges Companies Face When Paying Freelancers Globally (And How to Solve Them)
+## Top three Challenges Companies Face When Paying Freelancers Globally (And How to Solve Them)
 
 In today’s interconnected world, businesses increasingly rely on freelance talent from across the globe. While this opens the door to diverse expertise, it also presents significant challenges when managing payments. From dealing with multiple currencies to ensuring compliance with local tax regulations, global payouts can be daunting. Here, we’ll explore the top three challenges companies face when paying freelancers worldwide and how Chimoney’s innovative solutions can help simplify the process.
 
